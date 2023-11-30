@@ -68,6 +68,11 @@ body{
 .contacts-style:focus {color: #404bbf;}
 .contacts-style:active {color: #404bbf}
 
+/* Header */
+.header-class{
+    border-radius:  1px solid #e7e9fc;
+}
+
 /* Section 1 */
 .section-one {
     background-color: #2e2f42;

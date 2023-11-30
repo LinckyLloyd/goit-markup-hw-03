@@ -73,6 +73,10 @@ body{
     border-bottom:  1px solid #e7e9fc;
 }
 
+.header-container{
+    display: flex;
+
+}
 /* Section 1 */
 .section-one {
     background-color: #2e2f42;

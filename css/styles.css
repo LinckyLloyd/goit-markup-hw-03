@@ -119,7 +119,8 @@ body{
  
 }
 
-.first-section-button:hover, .first-section-button:focus {background-color: #404BBF;
+.first-section-button:hover, 
+.first-section-button:focus {background-color: #404BBF;
 }
 
 /* Section 2 */
@@ -130,6 +131,10 @@ body{
     letter-spacing: 0.02em;
     color: var(--grey);
 
+}
+
+.section-two{
+    padding: 120px;
 }
 
 .section-two-paragraph{

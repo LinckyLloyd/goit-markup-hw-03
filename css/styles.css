@@ -116,7 +116,7 @@ body{
     height: 56px;
     border: none;
     border-radius: 4px;
-    cursor: pointer;
+ 
 }
 
 .first-section-button:hover, .first-section-button:focus {background-color: #404BBF;

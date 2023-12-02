@@ -185,7 +185,7 @@ body{
 /* Footer */
 .footerstyle{
     background-color: var(--grey);
-    padding: 100px 0;
+
 
 }
 
@@ -197,6 +197,8 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
+    padding: 100px 0;
+    margin-bottom: 16px;
 
 }
 

@@ -273,6 +273,22 @@ body{
 .portfolioallbutton:hover{background-color: #404BBF;}
 .portfolioallbutton:focus {background-color: #404BBF;}
 
+/* Portfolio Header */
+
+.portfolio-header{
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.portfolio-header{
+    display: flex;
+}
+
+.container{
+    width: 1158px;
+    margin: 0 auto value;
+    padding: 0 15px;
+}
+
 /* Footer */
 .portfolio-footer{
     background-color: var(--navy-blue);

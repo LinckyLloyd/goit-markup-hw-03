@@ -251,6 +251,7 @@ body{
     text-transform: uppercase;
     color: var(--iris);
     text-decoration: none;
+    margin-right: 76px;
 
 }
 .portfolio-logo{
@@ -285,8 +286,13 @@ body{
 
 .container{
     width: 1158px;
-    margin: 0 auto value;
+    margin: 0 auto;
     padding: 0 15px;
+}
+
+.navliststyle{
+    display: flex;
+    align-items: center;
 }
 
 /* Footer */

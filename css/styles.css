@@ -194,6 +194,7 @@ body{
     color: var(--iris);
     padding: 100px 0;
     margin-bottom: 16px;
+    display: inline-block;
 
 }
 

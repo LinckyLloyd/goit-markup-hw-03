@@ -179,6 +179,7 @@ body{
 /* Footer */
 .footerstyle{
     background-color: var(--grey);
+    padding: 100px 0;
 
 
 }

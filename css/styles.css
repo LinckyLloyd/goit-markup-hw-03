@@ -148,6 +148,11 @@ body{
     gap: 24px;
 }
 
+.list{
+    display: flex;
+    gap: 24px;
+
+}
 
 /* Section 3 */
 .section-three-header, .section-four-header{

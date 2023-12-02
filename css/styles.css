@@ -1,9 +1,3 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-
 /* CSS Variables */
 :root{
     --iris: #4D5AE5;
@@ -248,7 +242,6 @@ body{
 /* Footer */
 .portfolio-footer{
     background-color: var(--navy-blue);
-    padding: 100px 0;
 }
 
 .portfolio-footer-logo{
@@ -296,12 +289,3 @@ body{
     letter-spacing: 0.02em;
     color: var(--slate);
 }
-
-
-/* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-  Padeclare po ito sa mga code niyo
-  Need po yan para gumawa */

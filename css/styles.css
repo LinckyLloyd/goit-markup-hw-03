@@ -132,7 +132,7 @@ body{
     letter-spacing: 0.02em;
     color: var(--grey);
     margin-bottom: 8px;
-    
+
 
 }
 
@@ -159,6 +159,18 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--grey);
+    margin-bottom: 72px;
+
+}
+
+.section-three{
+    padding-bottom: 120px;
+}
+
+.section-three-list{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
 }
 
 /* Section 4 */

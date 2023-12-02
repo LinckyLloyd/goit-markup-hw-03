@@ -133,8 +133,12 @@ body{
 
 }
 
+.main-header-section-two{
+    /* visually to be continued */
+}
+
 .section-two{
-    padding: 120px;
+    padding: 120px 0;
 }
 
 .section-two-paragraph{

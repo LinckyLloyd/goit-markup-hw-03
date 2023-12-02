@@ -198,6 +198,10 @@ body{
     color: var(--grey);
 }
 
+.name-and-position{
+    padding: 32px 0;
+}
+
 /* Footer */
 .footerstyle{
     background-color: var(--grey);

@@ -295,6 +295,14 @@ body{
     align-items: center;
 }
 
+/* Portfolio Main */
+
+.portfolio-main-section{
+    padding-top: padding: 96px 0 120px 0;
+}
+
+
+
 /* Footer */
 .portfolio-footer{
     background-color: var(--navy-blue);

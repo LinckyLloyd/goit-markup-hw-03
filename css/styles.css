@@ -131,6 +131,8 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--grey);
+    margin-bottom: 8px;
+    
 
 }
 
@@ -141,11 +143,6 @@ body{
 .section-two-paragraph{
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.section-two-list{
-    display: flex;
-    gap: 24px;
 }
 
 .list{

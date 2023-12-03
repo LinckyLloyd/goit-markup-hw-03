@@ -269,6 +269,11 @@ body{
     cursor: pointer;
 }
 
+.portfolio-list{
+    justify-content: center;
+    margin-bottom: 72px;
+}
+
 .portfolioallbutton:hover {color: #FFFFFF;}
 .portfolioallbutton:focus {color: #FFFFFF;}
 .portfolioallbutton:hover{background-color: #404BBF;}

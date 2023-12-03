@@ -272,12 +272,18 @@ body{
 .portfolio-list{
     justify-content: center;
     margin-bottom: 72px;
+    display: flex;
+    gap: 24px;
 }
 
 .portfolioallbutton:hover {color: #FFFFFF;}
 .portfolioallbutton:focus {color: #FFFFFF;}
 .portfolioallbutton:hover{background-color: #404BBF;}
 .portfolioallbutton:focus {background-color: #404BBF;}
+.portfolioallbutton{
+    padding: 12px 24px 12px;
+    border-radius: 4px;
+}
 
 /* Portfolio Header */
 

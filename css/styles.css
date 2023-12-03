@@ -264,6 +264,11 @@ body{
     color: var(--grey);
 }
 
+.portfolio-header-menu{
+    gap: 40px;
+    padding: 24px;
+}
+
 .portfolioallbutton{
     font-family: "Roboto", sans-serif;
     font-weight: 500;

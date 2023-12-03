@@ -137,6 +137,7 @@ body{
     letter-spacing: 0.02em;
     color: var(--grey);
     margin-bottom: 8px;
+    
 
 
 }
@@ -314,8 +315,8 @@ body{
 
 /* Portfolio Main */
 
-.portfolio-main-section{
-    padding-top: padding: 96px 0 120px 0;
+.portfolio-main-section { 
+    padding-top:  96px 0 120px 0;
 }
 
 

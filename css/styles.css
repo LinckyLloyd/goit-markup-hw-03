@@ -291,6 +291,7 @@ body{
 .portfolio-hdr-menu{
 	display: flex;
 	padding: 24px;
+    gap: 40px;
 
 }
 
@@ -337,7 +338,7 @@ body{
 .navliststyle{
     display: flex;
     align-items: center;
-    gap: 40px;
+    /* gap: 40px; */
 }
 
 /* Portfolio Main */

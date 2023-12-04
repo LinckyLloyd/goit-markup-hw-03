@@ -147,7 +147,7 @@ img {
     }
 
 .section-two-list{
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
 }    
 
 .section-two{
@@ -185,6 +185,7 @@ img {
     display: flex;
     justify-content: space-between;
     gap: 24px;
+    width calc((100% - 3 * 16px) / 3);
 }
 
 /* Section 4 */
@@ -202,6 +203,7 @@ img {
 .employee-bgcolor{
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
+    flex-basis: calc((100% - 3 * 24px) / 4);
 
 }
 

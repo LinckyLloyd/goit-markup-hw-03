@@ -287,6 +287,17 @@ body{
     gap: 24px;
 }
 
+.portfolio-hdr-menu{
+	display: flex;
+	padding: 24px;
+
+}
+
+.address-list{
+	display: flex;
+	gap: 40px;
+}
+
 .portfolioallbutton:hover {color: #FFFFFF;}
 .portfolioallbutton:focus {color: #FFFFFF;}
 .portfolioallbutton:hover{background-color: #404BBF;}

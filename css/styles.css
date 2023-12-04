@@ -295,7 +295,6 @@ body{
 
 .address-list{
 	display: flex;
-	gap: 40px;
 }
 
 .portfolioallbutton:hover {color: #FFFFFF;}

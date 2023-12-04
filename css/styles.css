@@ -37,11 +37,12 @@ body{
 .navliststyle-header{
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 
-.nav-main{
+/* .nav-main{
     align-items: center value;
-}
+} */
 .header-link:hover {color: #404bbf;}
 .header-link:focus {color: #404bbf;}
 
@@ -265,8 +266,8 @@ body{
 }
 
 .portfolio-header-menu{
-    gap: 40px;
-    padding: 24px;
+    /* gap: 40px; */
+    padding: 24px 0;
 }
 
 .portfolioallbutton{

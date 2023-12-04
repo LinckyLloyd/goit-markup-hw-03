@@ -147,7 +147,8 @@ img {
     }
 
 .section-two-list{
-    flex: 0 0 calc((100% - 3 * 24px) / 4);
+     flex: 0 0 calc((100% - 3 * 24px) / 4);
+     gap: 24px;
 }    
 
 .section-two{

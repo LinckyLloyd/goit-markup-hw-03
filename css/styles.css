@@ -301,6 +301,7 @@ body{
 
 .address-list{
 	display: flex;
+    gap: 40px;
 }
 
 
@@ -336,6 +337,7 @@ body{
 .navliststyle{
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 
 /* Portfolio Main */

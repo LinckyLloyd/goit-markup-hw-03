@@ -389,6 +389,16 @@ body{
     color: var(--navy-blue);
 }
 
+.portfolio-main-d {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+
+}
+
+.portfolio-custom-header{
+    margin-bottom: 8px;
+}
+
 /* Styling the custom paragraph class */
 .custom-paragraph {
     font-size: 16px;

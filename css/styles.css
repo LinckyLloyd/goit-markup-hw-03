@@ -37,6 +37,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--grey);
+    padding: 24px 0;
 
 }
 
@@ -143,10 +144,11 @@ img {
     letter-spacing: 0.02em;
     color: var(--grey);
     margin-bottom: 8px;
-    
+    }
 
-
-}
+.section-two-list{
+    flex-basis: calc((100% - 72px) / 4);
+}    
 
 .section-two{
     padding: 120px 0;

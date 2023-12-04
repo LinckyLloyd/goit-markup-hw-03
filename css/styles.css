@@ -293,18 +293,27 @@ body{
 
 }
 
+.portfolio-list-images{
+    flex-wrap: wrap;
+    row-gap: 48px;
+}
+
 .address-list{
 	display: flex;
 }
 
-.portfolioallbutton:hover {color: #FFFFFF;}
-.portfolioallbutton:focus {color: #FFFFFF;}
-.portfolioallbutton:hover{background-color: #404BBF;}
-.portfolioallbutton:focus {background-color: #404BBF;}
+
 .portfolioallbutton{
     padding: 12px 24px 12px;
     border-radius: 4px;
     border: 1px solid #e7e9fc;
+}
+
+.portfolioallbutton:hover, .portfolioallbutton:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+    border: 1px solid transparent;
+
 }
 
 /* Portfolio Header */
@@ -389,15 +398,15 @@ body{
 }
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  }
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}

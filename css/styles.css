@@ -147,7 +147,7 @@ img {
     }
 
 .section-two-list{
-    width: calc((100% - 72px) / 4);
+    flex: 0 0 calc((100% - 3 * 24px) / 4);
 }    
 
 .section-two{

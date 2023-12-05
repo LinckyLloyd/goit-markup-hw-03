@@ -316,6 +316,7 @@ img {
 .portfolio-list-images{
     flex-wrap: wrap;
     row-gap: 48px;
+    width: calc((100% - 48px) / 3);
 }
 
 .address-list{

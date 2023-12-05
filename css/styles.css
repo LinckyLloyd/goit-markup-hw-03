@@ -394,6 +394,8 @@ img {
 /* Styling the list items */
 .list-item {
     margin-bottom: 20px;
+    margin: 0;
+    padding: 0;
 }
 
 /* Styling the default link class */

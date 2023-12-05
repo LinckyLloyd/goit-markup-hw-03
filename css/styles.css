@@ -314,13 +314,14 @@ img {
 }
 
 .portfolio-list-images{
+    width: 1158px;
+    margin: 0;
+    list-style-type: none;
     display: flex;
+    align-items: flex-start;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    margin: 0;
-    padding: 0;
-}
 
 .address-list{
 	display: flex;

@@ -80,6 +80,8 @@ img {
 
 .contacts-style{
     color: #434455;
+    display: flex;
+    gap: 40px;
 }
 
 .contacts-style:hover {color: #404bbf;}
